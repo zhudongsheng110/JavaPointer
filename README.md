@@ -13,16 +13,16 @@
                                      **java后端知识全宇宙**
 
 - [java后端面试宝典]
-  -  [基础篇](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/基础篇.md)
-  -  [框架篇](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/框架篇.md)
-  -  [数据库篇](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/数据库篇.md)
-  -  [调优篇](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/调优篇.md)
-  -  [分布式篇](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/分布式篇.md)
-  -  [权限管理](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/权限管理.md)
-  -  [消息中间件](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/消息中间件.md)
-  -  [SpringBoot快速开发框架](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/SpringBoot快速开发框架.md)
-  -  [微服务框架SpringCloud](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/微服务框架SpringCloud.md)
-  -  [应用篇](/docs/javaInterview/java后端面试宝典.md/docs/javaInterview/应用篇.md)
+  -  [基础篇](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/基础篇.md)
+  -  [框架篇](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/框架篇.md)
+  -  [数据库篇](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/数据库篇.md)
+  -  [调优篇](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/调优篇.md)
+  -  [分布式篇](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/分布式篇.md)
+  -  [权限管理](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/权限管理.md)
+  -  [消息中间件](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/消息中间件.md)
+  -  [SpringBoot快速开发框架](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/SpringBoot快速开发框架.md)
+  -  [微服务框架SpringCloud](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/微服务框架SpringCloud.md)
+  -  [应用篇](docs/javaInterview/java后端面试宝典.md/docs/javaInterview/应用篇.md)
   
 - [Java基础篇]
   - [编程基础]
