@@ -26,8 +26,9 @@
   
 - [Java基础篇]
   - [编程基础]
-    - [深层次理解Jdk JRE JVM以及三者之间的关系](https://mp.weixin.qq.com/s?__biz=MzUzOTAwNzI2MQ==&mid=2247483731&idx=1&sn=83238ba08f3af62a318b13a357668859&chksm=face4121cdb9c8378c70946254c6261e4e685561b8e5590aa796e445d278be440440bc03a676&token=928701946&lang=zh_CN#rd)
+     - [HashMap1.8之后为什么要采用数组+链表+红黑树的储存方式](https://mp.weixin.qq.com/s?__biz=MzUzOTAwNzI2MQ==&mid=2247483947&idx=1&sn=a39465021f8aa79ff29bc23e19126cc5&chksm=face4259cdb9cb4f6d85cde9b8f7013f33dcdf312b17a1f927a663e29f9be4294fbfc507ea97&token=1619782870&lang=zh_CN#rd)
   - [jvm]
+    - [深层次理解Jdk JRE JVM以及三者之间的关系](https://mp.weixin.qq.com/s?__biz=MzUzOTAwNzI2MQ==&mid=2247483731&idx=1&sn=83238ba08f3af62a318b13a357668859&chksm=face4121cdb9c8378c70946254c6261e4e685561b8e5590aa796e445d278be440440bc03a676&token=928701946&lang=zh_CN#rd)
   - [集合]
 - [操作系统]
 - [计算机网络]
