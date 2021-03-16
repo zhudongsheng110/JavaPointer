@@ -1,8 +1,15 @@
-  这个repo是我和一些朋友们精心整理的java知识大全，文章围绕开发时遇到的难题解决、java的全宇宙知识和面试宝典。
-        因为之前很多内容都整理在本地文档，之后会慢慢完善并发布上来,希望对大家有所帮助。
-        大家可以到我的[公众号](#公众号)、[知乎](#知乎)、[csdn](#csdn)关注我。
+  👋 Hello,我是Rise1024
+#### @95后java程序员一个
+#### @资深篮球迷一个，每周会打一次篮球。
+#### @有时会在头条上更新篮球文章和视频，可以一起交流奥（[头条@Rise024]()）
+#### @年轻人别总是熬夜
+  
+  >这个repo是我和一些朋友们精心整理的java知识大全
+  文章围绕开发时遇到的难题解决、java的全宇宙知识和面试宝典。
+  因为之前很多内容都整理在本地文档，之后会慢慢完善并发布上来,希望对大家有所帮助。
 
-<p align="center">
+### 找到我
+<p>
  <a href="https://mp.weixin.qq.com/s?__biz=MzUzOTAwNzI2MQ==&mid=2247483755&idx=1&sn=a76b8eb8b1928679c29eef8fb70f94fa&chksm=face4119cdb9c80ff6a6ab9ae41af2d891834a64d96e60d6593977ff8481bf9c21217f62cfb5&token=928701946&lang=zh_CN#rd">公众号</a>&nbsp;&nbsp; 
  <a href="https://blog.csdn.net/weixin_44470090?spm=1000.2115.3001.5343">csdn</a>&nbsp;&nbsp; 
   <a href="https://www.zhihu.com/people/hou-ren-71">知乎</a>
