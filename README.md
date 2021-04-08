@@ -1,4 +1,3 @@
-![你应该是世界上最快乐的程序员，不是吗？](https://i.loli.net/2021/04/02/dgOR9ZhtvaHG5Es.png)
 
                               **java后端知识全宇宙**
 
